@@ -1,4 +1,4 @@
-package com.mrmonksy.99scala
+package com.mrmonksy.ninetyninescala
 
 /**
  * @author ${user.name}
